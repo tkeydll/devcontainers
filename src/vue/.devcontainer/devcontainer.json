@@ -12,8 +12,12 @@
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
 				"dbaeumer.vscode-eslint",
+				"ritwickdey.liveserver",
+				"Vue.volar",
 				"octref.vetur",
-				"Vue.volar"
+				"hollowtree.vue-snippets",
+				"dariofuzinato.vue-peek",
+				"titiaiev.vue-docs"
 			]
 		}
 	},
